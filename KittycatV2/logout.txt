@@ -1,0 +1,244 @@
+2016-12-03 09:56:34 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-03 10:15:24 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-03 10:37:39 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-03 10:38:58 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/127.0.0.1is connecting to this server.
+2016-12-03 10:40:14 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/127.0.0.1is connecting to this server.
+2016-12-03 16:19:16 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-03 16:19:43 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:19:43 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:19:43 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:19:43 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:19:43 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:19:43 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:19:43 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:19:43 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:19:43 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:19:43 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:21:56 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-03 16:22:42 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:22:42 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:22:42 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:02 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:02 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:02 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:02 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:02 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:02 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:02 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:02 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:02 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:02 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:05 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:21 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-03 16:23:24 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:24 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:24 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:24 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:24 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:24 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:24 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:24 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:24 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:24 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:23:26 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:25:47 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-03 16:25:51 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:25:51 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:25:51 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:25:51 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:25:51 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:25:51 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:25:51 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:25:51 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:25:51 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:25:51 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:26:59 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-03 16:27:30 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-03 16:27:39 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 19:10:56 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-07 19:12:29 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 19:12:29 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 19:12:29 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 19:12:37 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 19:12:46 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:18:43 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-07 20:20:40 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:26:44 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-07 20:27:07 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-07 20:27:11 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:27:20 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:27:23 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:29:58 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:30:04 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:32:23 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-07 20:32:29 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:32:54 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:32:56 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:07 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+System is running ,and listening port is 8080
+2016-12-07 20:36:10 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:22 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:22 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:22 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:22 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:22 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:22 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:22 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:22 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:22 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:22 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:26 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:35 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:35 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:35 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:35 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:35 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:35 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:35 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:35 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:35 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:36:35 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:37:14 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:37:23 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:37:23 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:37:23 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:37:23 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:37:23 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:37:23 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:37:23 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:37:23 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:37:23 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:37:23 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:37:26 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:37:33 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:38:38 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:38:38 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:38:38 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:38:38 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:38:38 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:38:38 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:38:38 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:38:38 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:38:38 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
+2016-12-07 20:38:38 INFO  main    [com.zd.kittyserver.util.YcConstants] 
+/0:0:0:0:0:0:0:1 is connecting to this server.
